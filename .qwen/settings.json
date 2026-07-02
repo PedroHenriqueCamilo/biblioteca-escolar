@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Bash(mkdir *)"
+      "Bash(mkdir *)",
+      "Skill(new-app)",
+      "Agent(Explore)",
+      "Bash(mysql *)"
     ]
   },
   "$version": 4
